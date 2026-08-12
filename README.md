@@ -2,7 +2,7 @@
 
 **Democratic candidate for president.**
 
-The value of the American project has never been in its initial conditions.  The founders gave us a framework with the expectation that we would constantly improve upon it.  This capacity for self-correction is one of the cornerstones of our democracyDeclarationcancel.
+The value of the American project has never been in its initial conditions.  The founders gave us a framework with the expectation that we would constantly improve upon it.  This capacity for self-correction is one of the cornerstones of our democracy.
 
 Frederick Douglass did not give up on the principles articulated in the Declaration.  He read them louder.  Dr. King did not call the founding promises a lie to be discarded — he called them a promissory note, a debt to be collected.  That is the tradition we inherit, this concept of self-improvement, this promise of ideals that must be continuously perfected for ourselves and our posterity, and the one we must forever uphold.
 
