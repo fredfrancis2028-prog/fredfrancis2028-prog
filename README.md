@@ -1,16 +1,22 @@
-## Hi there 👋
+# Fred Francis 2028
 
-<!--
-**fredfrancis2028-prog/fredfrancis2028-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Democratic candidate for president.**
 
-Here are some ideas to get you started:
+Policy, history, and plain talk from a neighbor, who is running for president.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Americans share the same basic needs.  Our politics should reflect that.
+
+---
+
+**The campaign website — [fredfrancis2028.com](https://fredfrancis2028.com)** — has detailed policy positions, each with citations, an accountability framework, and a comment form so you can tell us where we're wrong.
+
+**Find us elsewhere:**
+
+- [Substack](https://fredfrancis2028.substack.com) — long-form policy writing and updates
+- [Bluesky](https://bsky.app/profile/fredfrancis2028.bsky.social) — @fredfrancis2028.bsky.social
+- [YouTube](https://www.youtube.com/@FredFrancis2028) — speeches and policy discussion
+- [X](https://x.com/FredFrancis2028) — @FredFrancis2028
+
+---
+
+*© 2026 Fred Francis 2028, Inc.*
