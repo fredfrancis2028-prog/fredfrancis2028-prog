@@ -2,21 +2,10 @@
 
 **Democratic candidate for president.**
 
-Policy, history, and plain talk from a neighbor, who is running for president.
+The value of the American project has never been in its initial conditions.  It has always been in its capacity for self-correction.
 
-Americans share the same basic needs.  Our politics should reflect that.
+Frederick Douglass did not cancel the reading of the Declaration.  He read it louder.  Dr. King did not call the founding promises a lie to be discarded — he called them a promissory note, a debt to be collected.  That is the tradition we inherit.
 
----
+The campaign website — **[fredfrancis2028.com](https://fredfrancis2028.com)** — has detailed policy positions with citations, an accountability framework with measurable goals, and a comment form so you can tell us where we're wrong.
 
-**The campaign website — [fredfrancis2028.com](https://fredfrancis2028.com)** — has detailed policy positions, each with citations, an accountability framework, and a comment form so you can tell us where we're wrong.
-
-**Find us elsewhere:**
-
-- [Substack](https://fredfrancis2028.substack.com) — long-form policy writing and updates
-- [Bluesky](https://bsky.app/profile/fredfrancis2028.bsky.social) — @fredfrancis2028.bsky.social
-- [YouTube](https://www.youtube.com/@FredFrancis2028) — speeches and policy discussion
-- [X](https://x.com/FredFrancis2028) — @FredFrancis2028
-
----
-
-*© 2026 Fred Francis 2028, Inc.*
+This repository contains the source code for that website.
